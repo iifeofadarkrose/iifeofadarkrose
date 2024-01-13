@@ -7,7 +7,7 @@ Web developer
 I am an experienced web developer with more than a year and a half in web-dev, I like to write clean and clear code, as well as constantly improve their skills and learn new tools
 
 *   🌍  I'm based in Slovakia
-*   🖥️  See my portfolio at [My website](http://ifeofadarkrose.github.io/portfolio-web/)
+*   🖥️  See my portfolio at [My website](https://iifeofadarkrose.github.io/portfolio-web/)
 *   ✉️  You can contact me at [babenkovyacheslav17@gmail.com](mailto:babenkovyacheslav17@gmail.com)
 *   🧠  I'm learning JS/TS, React, NodeJS, Tailwind.
 *   🤝  I'm open to collaborating on interesting web-dev projects### Skills 
